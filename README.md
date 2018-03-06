@@ -20,6 +20,11 @@ Documentation
 
 You can find the documentation here: [hump.readthedocs.org](http://hump.readthedocs.org)
 
+Modifications
+=============
+
+- Replaced the camera class by [this](https://github.com/SSYGEN/ModifiedCamera) one
+
 
 License
 =======
